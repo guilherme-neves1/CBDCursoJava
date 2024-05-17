@@ -39,10 +39,18 @@ public class Aula3 {
       case 3:
         System.out.println("Terceiro lugar!");
         break;
+      case 4:
+        System.out.println("Menção honrosa!");
+        break;
+      case 5:
+        System.out.println("Menção honrosa!");
+        break;
+      case 6:
+        System.out.println("Menção honrosa!");
+        break;
       default:
         System.out.println("Não subiu no pódio!");
         break;
-
 
     }
 
